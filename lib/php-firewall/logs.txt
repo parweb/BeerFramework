@@ -1,0 +1,301 @@
+ 
+27-02-2010 23:40:09 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+27-02-2010 23:41:50 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+27-02-2010 23:48:54 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:15:37 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:16:18 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:17:52 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:20:46 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:21:53 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:22:19 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:25:44 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:26:59 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:27:33 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:30:36 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:31:13 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:34:50 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+28-02-2010 00:35:04 | POST protect | IP: 92.158.199.225 ] | DNS: ARennes-554-1-165-225.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /parweb/pwbcms/admin:module/add/ | Referer: http://www.parweb.fr/parweb/pwbcms/admin:module/add/
+
+2-03-2010 10:08:11 | POST protect | IP: 82.245.200.177 ] | DNS: qrm29-1-82-245-200-177.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /parweb/pwbcms/admin:module/add/module_name:excuses/ | Referer: http://parweb.fr/parweb/pwbcms/admin:module/add/module_name:excuses/
+
+2-03-2010 10:09:39 | POST protect | IP: 82.245.200.177 ] | DNS: qrm29-1-82-245-200-177.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /parweb/pwbcms/admin:module/add/module_name:excuses/ | Referer: http://parweb.fr/parweb/pwbcms/admin:module/add/module_name:excuses/
+
+2-03-2010 10:12:05 | POST protect | IP: 82.245.200.177 ] | DNS: qrm29-1-82-245-200-177.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /parweb/pwbcms/admin:module/add/module_name:excuses/ | Referer: http://parweb.fr/parweb/pwbcms/admin:module/add/module_name:excuses/
+
+2-03-2010 21:03:08 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fexcuse%2Fadd%2F%3Ffbc_channel%3D1%26fb_login%26fname%3D_opener%26guid%3D0.5424725182929195 | Referer: http://www.facebook.com/login.php?return_session=1&nochrome=1&fbconnect=1&extern=0&display=popup&api_key=25c1c415e56649753f0ffa4a3636565d&v=1.0&next=http%3A%2F%2Fjetaisabsent.fr%2Fexcuse%2Fadd%2F%3Ffbc_channel%3D1%26fb_login%26fname%3D_opener%26guid%3D0.5424725182929195&cancel_url=http%3A%2F%2Fjetaisabsent.fr%2Fexcuse%2Fadd%2F%3Ffbc_channel%3D1%23fname%3D_opener%26%257B%2522t%2522%253A3%252C%2522h%2522%253A%2522fbCancelLogin%2522%252C%2522sid%2522%253A%25220.451%2522%257D&channel_url=http%3A%2F%2Fjetaisabsent.fr%2Fexcuse%2Fadd%2F%3Ffbc_channel%3D1&locale=en_US
+
+2-03-2010 21:03:11 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fexcuse%2Fadd%2F%3Ffbc_channel%3D1%26fb_login%26fname%3D_opener%26guid%3D0.5424725182929195 | Referer: no referer
+
+2-03-2010 21:15:58 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fxd_receiver.htm%3Ffb_login%26fname%3D_opener%26guid%3D0.9946104065996472 | Referer: http://jetaisabsent.fr/excuse/add/
+
+2-03-2010 21:16:00 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fxd_receiver.htm%3Ffb_login%26fname%3D_opener%26guid%3D0.9946104065996472 | Referer: no referer
+
+2-03-2010 21:20:00 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fxd_receiver.htm%3Ffb_login%26fname%3D_opener%26guid%3D0.39454917294207204 | Referer: http://jetaisabsent.fr/excuse/add/
+
+2-03-2010 21:20:03 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fxd_receiver.htm%3Ffb_login%26fname%3D_opener%26guid%3D0.39454917294207204 | Referer: no referer
+
+2-03-2010 21:21:30 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fxd_receiver.htm%3Ffb_login%26fname%3D_opener%26guid%3D0.8864843313686032 | Referer: http://jetaisabsent.fr/excuse/add/
+
+2-03-2010 21:23:40 | GET protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /?session=%7B%22session_key%22%3A%223.H9Qiv1F4mDx6A0wLlnvqxw__.3600.1267567200-545447247%22%2C%22uid%22%3A545447247%2C%22expires%22%3A1267567200%2C%22secret%22%3A%22FACGkVdY538LkD6KR_tSSQ__%22%2C%22base_domain%22%3A%22www.jetaisabsent.fr%22%2C%22sig%22%3A%223e5597d8762d869ead92518800d041d4%22%7D&next=http%3A%2F%2Fjetaisabsent.fr%2Fxd_receiver.htm%3Ffb_login%26fname%3D_opener%26guid%3D0.00852897048282708 | Referer: http://jetaisabsent.fr/excuse/add/
+
+2-03-2010 22:56:14 | IPs Spam list | IP: 217.128.69.73 ] | DNS: LNeuilly-152-23-22-73.w217-128.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /excuse/list/typeexcuse_url:telephone/ | Referer: http://jetaisabsent.fr/excuse/list/typeexcuse_url:bidon/
+
+2-03-2010 23:04:36 | IPs Spam list | IP: 213.96.237.62 ] | DNS: 62.Red-213-96-237.staticIP.rima-tde.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /excuse/view/excuse_id:1/ | Referer: http://www.facebook.com/?sk=messages&tid=1370764946701
+
+2-03-2010 23:04:36 | IPs Spam list | IP: 213.96.237.62 ] | DNS: 62.Red-213-96-237.staticIP.rima-tde.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 07:50:23 | IPs reserved list | IP: 192.54.144.229 ] | DNS: gwinternet.thalesgroup.com | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 | URL: /excuse/view/excuse_id:9/ | Referer: http://www.facebook.com/home.php?
+
+3-03-2010 07:50:23 | IPs reserved list | IP: 192.54.144.229 ] | DNS: gwinternet.thalesgroup.com | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 | URL: /excuse/view/excuse_id:9/ | Referer: http://www.facebook.com/home.php?
+
+3-03-2010 07:50:23 | IPs reserved list | IP: 192.54.144.229 ] | DNS: gwinternet.thalesgroup.com | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 07:50:26 | IPs reserved list | IP: 192.54.144.229 ] | DNS: gwinternet.thalesgroup.com | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 10:35:12 | IPs reserved list | IP: 172.18.2.166 ] | DNS: 172.18.2.166 | Agent: Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1.3) Gecko/20090909 Fedora/3.5.3-1.fc11 Firefox/3.5.3 | URL: / | Referer: http://www.facebook.com/
+
+3-03-2010 10:35:12 | IPs reserved list | IP: 172.18.2.166 ] | DNS: 172.18.2.166 | Agent: Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1.3) Gecko/20090909 Fedora/3.5.3-1.fc11 Firefox/3.5.3 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 10:35:16 | IPs reserved list | IP: 172.18.2.166 ] | DNS: 172.18.2.166 | Agent: Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1.3) Gecko/20090909 Fedora/3.5.3-1.fc11 Firefox/3.5.3 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 12:17:56 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/
+
+3-03-2010 12:18:08 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/typeexcuse_url:bidon/
+
+3-03-2010 12:18:13 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 12:18:23 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/
+
+3-03-2010 15:16:32 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: /excuse/view/excuse_id:8/ | Referer: http://www.facebook.com/home.php?
+
+3-03-2010 15:16:32 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:16:35 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:16:40 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:17:00 | IPs reserved list | IP: 172.16.0.1 ] | DNS: 172.16.0.1 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: / | Referer: no referer
+
+3-03-2010 15:17:00 | IPs reserved list | IP: 172.16.0.1 ] | DNS: 172.16.0.1 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:17:02 | IPs reserved list | IP: 172.16.0.1 ] | DNS: 172.16.0.1 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:17:20 | IPs reserved list | IP: 172.16.0.1 ] | DNS: 172.16.0.1 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: / | Referer: no referer
+
+3-03-2010 15:17:21 | IPs reserved list | IP: 172.16.0.1 ] | DNS: 172.16.0.1 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:17:24 | IPs reserved list | IP: 172.16.0.1 ] | DNS: 172.16.0.1 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:17:47 | IPs reserved list | IP: 192.168.90.148 ] | DNS: 192.168.90.148 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:17:47 | IPs reserved list | IP: 192.168.90.148 ] | DNS: 192.168.90.148 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:17:50 | IPs reserved list | IP: 192.168.90.148 ] | DNS: 192.168.90.148 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 15:18:01 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:18:21 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:18:25 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:18:26 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:18:31 | IPs reserved list | IP: 192.168.90.148 ] | DNS: 192.168.90.148 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:18:54 | DEDIBOX Server list | IP: 88.191.98.41 ] | DNS: sd-16725.dedibox.fr | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+3-03-2010 15:18:54 | DEDIBOX Server list | IP: 88.191.98.41 ] | DNS: sd-16725.dedibox.fr | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 18:43:38 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/
+
+3-03-2010 18:44:47 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/typeexcuse_url:bidon/
+
+3-03-2010 18:45:03 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 18:45:16 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/typeexcuse_url:bidon/
+
+3-03-2010 18:46:11 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/counter/excuse_id:8/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 18:46:17 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 18:48:46 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/typeexcuse_url:bidon/
+
+3-03-2010 18:48:53 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/typeexcuse_url:bidon/
+
+3-03-2010 18:58:45 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/
+
+3-03-2010 19:10:25 | IPs Spam list | IP: 213.96.237.62 ] | DNS: 62.Red-213-96-237.staticIP.rima-tde.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /excuse/view/excuse_id:8/ | Referer: http://www.facebook.com/?ref=home
+
+3-03-2010 19:10:25 | IPs Spam list | IP: 213.96.237.62 ] | DNS: 62.Red-213-96-237.staticIP.rima-tde.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 19:19:07 | Invalid request | IP: 82.245.203.66 ] | DNS: qrm29-1-82-245-203-66.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/
+
+3-03-2010 19:24:38 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 19:33:36 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 19:33:45 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/list/page:2/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 19:53:07 | POST protect | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /admin:module/add/module_name:certificat/ | Referer: http://www.jetaisabsent.fr/admin:module/add/module_name:certificat/
+
+3-03-2010 21:00:29 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/counter/excuse_id:30/ | Referer: http://www.jetaisabsent.fr/excuse/list/
+
+3-03-2010 21:00:39 | IPs Spam list | IP: 217.128.69.73 ] | DNS: LNeuilly-152-23-22-73.w217-128.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5 | URL: /favicon.ico | Referer: no referer
+
+3-03-2010 21:00:43 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/counter/excuse_id:30/ | Referer: http://www.jetaisabsent.fr/excuse/view/excuse_id:30/
+
+3-03-2010 21:31:36 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/counter/excuse_id:90/ | Referer: http://www.jetaisabsent.fr/excuse/date/
+
+3-03-2010 21:31:36 | Invalid request | IP: 92.158.114.233 ] | DNS: ARennes-554-1-210-233.w92-158.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1021 Safari/532.5 | URL: /ajax:excuse/counter/excuse_id:90/ | Referer: http://www.jetaisabsent.fr/excuse/date/
+
+3-03-2010 22:22:34 | Posting another server | IP: 86.195.243.93 ] | DNS: ARennes-757-1-24-93.w86-195.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 GTBDFff GTB7.0 | URL: /ajax:excuse/counter/excuse_id:8/ | Referer: http://jetaisabsent.fr/excuse/view/excuse_id:8/
+
+4-03-2010 07:17:25 | Posting another server | IP: 90.12.216.81 ] | DNS: ARennes-357-1-121-81.w90-12.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /ajax:excuse/counter/excuse_id:55/ | Referer: http://jetaisabsent.fr/excuse/list/typeexcuse_url:reveil/
+
+4-03-2010 07:20:05 | Posting another server | IP: 90.12.216.81 ] | DNS: ARennes-357-1-121-81.w90-12.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /ajax:excuse/counter/excuse_id:17/ | Referer: http://jetaisabsent.fr/excuse/list/typeexcuse_url:famille/
+
+4-03-2010 07:20:13 | Posting another server | IP: 90.12.216.81 ] | DNS: ARennes-357-1-121-81.w90-12.abo.wanadoo.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /ajax:excuse/counter/excuse_id:17/ | Referer: http://jetaisabsent.fr/excuse/list/typeexcuse_url:famille/
+
+4-03-2010 09:01:45 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: /certificat/list/ | Referer: http://www.facebook.com/
+
+4-03-2010 09:54:57 | Posting another server | IP: 82.245.200.177 ] | DNS: qrm29-1-82-245-200-177.fbx.proxad.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729) | URL: /ajax:excuse/counter/excuse_id:8/ | Referer: http://jetaisabsent.fr/excuse/list/
+
+4-03-2010 11:41:42 | IPs Spam list | IP: 213.144.218.64 ] | DNS: 64-218-144-213.altitudetelecom.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: / | Referer: no referer
+
+4-03-2010 11:41:42 | IPs Spam list | IP: 213.144.218.64 ] | DNS: 64-218-144-213.altitudetelecom.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+4-03-2010 11:41:45 | IPs Spam list | IP: 213.144.218.64 ] | DNS: 64-218-144-213.altitudetelecom.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+4-03-2010 16:43:29 | IPs reserved list | IP: 192.168.0.34 ] | DNS: 192.168.0.34 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+4-03-2010 16:43:29 | IPs reserved list | IP: 192.168.0.34 ] | DNS: 192.168.0.34 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+4-03-2010 16:43:50 | IPs reserved list | IP: 192.168.0.34 ] | DNS: 192.168.0.34 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: / | Referer: no referer
+
+4-03-2010 16:43:51 | IPs reserved list | IP: 192.168.0.34 ] | DNS: 192.168.0.34 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+4-03-2010 18:07:38 | IPs Spam list | IP: 212.198.64.131 ] | DNS: 212-198-64-131.rev.numericable.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: / | Referer: no referer
+
+4-03-2010 18:07:39 | IPs Spam list | IP: 212.198.64.131 ] | DNS: 212-198-64-131.rev.numericable.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+4-03-2010 18:07:42 | IPs Spam list | IP: 212.198.64.131 ] | DNS: 212-198-64-131.rev.numericable.fr | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /favicon.ico | Referer: no referer
+
+4-03-2010 20:07:52 | IPs Spam list | IP: 209.249.53.158 ] | DNS: 209.249.53.158 | Agent: Mozilla/5.0 http://fairshare.cc (X11; U; FreeBSD i386; en-US; rv:1.2a) Gecko/20021021 | URL: / | Referer: no referer
+
+6-03-2010 08:25:19 | Bots attack | IP: 174.129.228.67 ] | DNS: ec2-174-129-228-67.compute-1.amazonaws.com | Agent: ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com) | URL: /robots.txt | Referer: no referer
+
+6-03-2010 08:25:19 | Bots attack | IP: 174.129.228.67 ] | DNS: ec2-174-129-228-67.compute-1.amazonaws.com | Agent: ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com) | URL: /excuse/view/excuse_id:20 | Referer: no referer
+
+13-03-2010 01:33:23 | POST protect | IP: 79.93.9.176 ] | DNS: 176.9.93-79.rev.gaoland.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 | URL: /excuse/add/typeexcuse_url:bidon/ | Referer: http://www.jetaisabsent.fr/excuse/add/typeexcuse_url:bidon/
+
+7-04-2010 13:34:55 | IPs reserved list | IP: 10.20.8.148 ] | DNS: 10.20.8.148 | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) | URL: /excuse/list/typeexcuse_url:transport/ | Referer: http://www.google.fr/search?hl=fr&lr=&q=%22m%27a+march%C3%A9+sur+le+pied%22&start=10&sa=N
+
+7-04-2010 13:34:55 | IPs reserved list | IP: 10.20.8.148 ] | DNS: 10.20.8.148 | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+26-04-2010 11:40:02 | IPs reserved list | IP: 172.18.240.46 ] | DNS: 172.18.240.46 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11 | URL: / | Referer: no referer
+
+26-04-2010 11:40:02 | IPs reserved list | IP: 172.18.240.46 ] | DNS: 172.18.240.46 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11 | URL: /favicon.ico | Referer: no referer
+
+26-04-2010 16:56:07 | IPs reserved list | IP: 192.168.10.50 ] | DNS: 192.168.10.50 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 | URL: / | Referer: no referer
+
+26-04-2010 16:56:08 | IPs reserved list | IP: 192.168.10.50 ] | DNS: 192.168.10.50 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 | URL: /favicon.ico | Referer: no referer
+
+26-04-2010 16:56:11 | IPs reserved list | IP: 192.168.10.50 ] | DNS: 192.168.10.50 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 | URL: /favicon.ico | Referer: no referer
+
+26-04-2010 17:49:08 | IPs reserved list | IP: 192.168.10.50 ] | DNS: 192.168.10.50 | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 | URL: / | Referer: no referer
+
+26-05-2010 14:58:27 | IPs reserved list | IP: 172.30.0.254 ] | DNS: 172.30.0.254 | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322) | URL: / | Referer: no referer
+
+26-05-2010 14:58:28 | IPs reserved list | IP: 172.30.0.254 ] | DNS: 172.30.0.254 | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322) | URL: /favicon.ico | Referer: no referer
+
+11-06-2010 11:43:30 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729) | URL: /excuse/view/excuse_id:8/ | Referer: http://www.facebook.com/l.php?u=http%3A%2F%2Fjetaisabsent.fr%2Fexcuse%2Fview%2Fexcuse_id%3A8%2F&h=32f3a
+
+11-06-2010 11:43:31 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+11-06-2010 11:43:33 | OVH Server list | IP: 94.23.29.119 ] | DNS: ns367951.ovh.net | Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+16-06-2010 15:26:02 | IPs reserved list | IP: 10.232.26.131, 124.124.10.13 ] | DNS:  | Agent: Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.15650/18.738; U; en) Presto/2.4.15 | URL: /excuse/view/excuse_id:8/ | Referer: http://m.facebook.com/l.php?u=http%253A%252F%252Fjetaisabsent.fr%252Fexcuse%252Fview%252Fexcuse_id%253A8%252F&h=1e3a3186BR9gyUcoi_u1AOBuEoA&r7ba464e3&refid=7
+
+16-06-2010 15:26:03 | IPs reserved list | IP: 10.232.26.131, 124.124.10.13 ] | DNS:  | Agent: Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.15650/18.738; U; en) Presto/2.4.15 | URL: /favicon.ico | Referer: http://jetaisabsent.fr/excuse/view/excuse_id:8/
+
+12-07-2010 13:46:24 | Bots attack | IP: 95.108.151.244 ] | DNS: sticker01.yandex.ru | Agent: Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots) | URL: /robots.txt | Referer: no referer
+
+12-07-2010 13:46:25 | Bots attack | IP: 95.108.151.244 ] | DNS: sticker01.yandex.ru | Agent: Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots) | URL: / | Referer: no referer
+
+12-07-2010 13:46:26 | Bots attack | IP: 95.108.151.244 ] | DNS: sticker01.yandex.ru | Agent: Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots) | URL: / | Referer: no referer
+
+19-08-2010 15:21:03 | IPs reserved list | IP: 10.20.8.16 ] | DNS: 10.20.8.16 | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) | URL: / | Referer: http://www.google.fr/search?as_q=&hl=fr&num=10&btnG=Recherche+Google&as_epq=on+m%27a+march%C3%A9+sur+le+pied&as_oq=&as_eq=&lr=&cr=&as_ft=i&as_filetype=&as_qdr=all&as_occt=any&as_dt=i&as_sitesearch=&as_rights=&safe=images
+
+19-08-2010 15:21:04 | IPs reserved list | IP: 10.20.8.16 ] | DNS: 10.20.8.16 | Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) | URL: /favicon.ico | Referer: no referer
+
+25-08-2010 15:51:19 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 15:51:33 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /mysql/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 15:51:34 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /pma/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 15:51:42 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpMyAdmin/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:15:30 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /pma/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:15:30 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /scripts/setup.php | Referer: no referer
+
+25-08-2010 16:15:30 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /pma/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:15:31 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:15:31 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpmyadmin/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:15:31 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpmyadmin/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:15:34 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /mysql/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:15:34 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /mysql/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:15:35 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpMyAdmin/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:15:35 | OVH Server list | IP: 94.23.2.18 ] | DNS: ns204003.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpMyAdmin/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:32:27 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:32:27 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /mysql/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:32:28 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /pma/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:32:29 | Posting another server | IP: 72.55.140.75 ] | DNS: ip-72-55-140-75.static.privatedns.com | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpMyAdmin/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:37:16 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpMyAdmin/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:37:16 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /scripts/setup.php | Referer: no referer
+
+25-08-2010 16:37:16 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpMyAdmin/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:37:16 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:37:18 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpmyadmin/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:37:18 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /pma/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:37:19 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /phpmyadmin/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:37:19 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /pma/scripts/setup.php | Referer: www.jetaisabsent.fr
+
+25-08-2010 16:37:20 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /mysql/scripts/setup.php | Referer: no referer
+
+25-08-2010 16:37:20 | OVH Server list | IP: 91.121.25.110 ] | DNS: ns24718.ovh.net | Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en] | URL: /mysql/scripts/setup.php | Referer: www.jetaisabsent.fr
+
