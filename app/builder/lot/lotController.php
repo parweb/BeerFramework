@@ -16,9 +16,9 @@ class lotController extends Controller {
 	}
 
 	public function deleteAction () {
-		$this->helper( 'sql' )->delete( 'item', array( 'id' => $this->get( 'item.id' ) ) );
+		$this->helper( 'sql' )->delete( 'lot', array( 'id' => $this->get( 'lot.id' ) ) );
 		
-		$this->helper( 'html' )->redirect( 'builder/lot/list/' );
+		$this->helper( 'html' )->redirect( 'builder/item/list/' );
 	}
 
 	public function showAction () {
@@ -39,7 +39,7 @@ class lotController extends Controller {
 		if ( count( $this->post( 'data.lot' ) ) ) {
 			$this->items = $this->helper( 'sql' )->update( 'lot', $this->post( 'data.lot' ) );
 
-			$this->helper( 'html' )->redirect( 'builder/item/show/item.id:'.$this->post( 'data.lot.id' ).'/' );
+			$this->helper( 'html' )->redirect( 'builder/item/list/' );
 		}
 		
 		$this->items = $this->helper( 'sql' )->find( 'item' );

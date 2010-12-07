@@ -52,6 +52,8 @@
 				width: 960px;
 				margin: auto;
 			}
+			
+			
 		</style>
 	</head>
 	

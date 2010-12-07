@@ -126,8 +126,10 @@ if ( !class_exists( 'sql' ) ) {
 				$set = '';
 				if ( count( $datas ) ) {
 					foreach ( $datas as $field => $val ) {
-						$set .= "$table.$field = '$val'";
+						$set .= "$table.$field = '$val', ";
 					}
+					
+					$set = trim( $set, ', ' );
 				}
 		
 				$sql = "UPDATE $table SET $set WHERE $table.id = $id";
