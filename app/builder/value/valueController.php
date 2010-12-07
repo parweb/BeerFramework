@@ -38,7 +38,7 @@ class valueController extends Controller {
 				}
 			}
 
-			printr( $item_values, true );
+			printr( $item_values );
 			@$this->item_value = $item_values;
 		}
 	}
