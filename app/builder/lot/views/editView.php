@@ -1,3 +1,4 @@
+<h2>Editer un lot</h2>
 <form method="post">
 	<!--<p>
 		<label for="lot-item_id">Item existant: </label>

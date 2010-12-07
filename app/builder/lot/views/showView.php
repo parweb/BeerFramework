@@ -1,4 +1,4 @@
-<h2><?php echo $this->item['name']; ?></h2>
+<h2>Détail de: <?php echo $this->item['name']; ?></h2>
 
 <form method="post" action="<?php echo $this->helper('html')->uri( "builder/append/" ); ?>">
 	<p>

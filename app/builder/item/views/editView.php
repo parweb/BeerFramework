@@ -1,3 +1,4 @@
+<h2>Editer un item</h2>
 <form method="post">
 	<p>
 		<label for="item-name">name: </label>

@@ -40,8 +40,11 @@ if ( !class_exists( 'sql' ) ) {
 					$where .= "$table.$field = '$val'";
 				}
 			}
+			
+			$sql = "SELECT * from $table$where";
+			echo "$sql<br>";
 
-			$req = $PDO->prepare( "SELECT * from $table$where" );
+			$req = $PDO->prepare( $sql );
 			$req->execute();
 			
 			if ( $req->rowCount() ) {
@@ -49,7 +52,7 @@ if ( !class_exists( 'sql' ) ) {
 					$result = $req->fetchAll( PDO::FETCH_ASSOC );
 				}
 				else {
-					$result = $req->fetch( PDO::FETCH_ASSOC );
+					$result = $req->fetchAll( PDO::FETCH_ASSOC );
 				}
 			}
 			else {
@@ -68,6 +71,7 @@ if ( !class_exists( 'sql' ) ) {
 			$PDO = new PDO( 'mysql:host='.$bdd['host'].';dbname='.$bdd['base'], $bdd['user'], $bdd['pass'] );
 		
 			$sql = "INSERT INTO $table ( ".join( ', ', array_keys( $datas ) )." ) VALUES ( '".join( "', '", array_values( $datas ) )."' )";
+			//echo "$sql<br>";exit;
 
 			return $PDO->query( $sql );
 		}
@@ -88,7 +92,7 @@ if ( !class_exists( 'sql' ) ) {
 					$result = $req->fetchAll( PDO::FETCH_ASSOC );
 				}
 				else {
-					$result = $req->fetch( PDO::FETCH_ASSOC );
+					$result = $req->fetchAll( PDO::FETCH_ASSOC );
 				}
 			}
 			else {

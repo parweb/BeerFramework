@@ -1,3 +1,4 @@
+<h2>Liste des lots</h2>
 <table width="100%">
 	<thead>
 		<tr>

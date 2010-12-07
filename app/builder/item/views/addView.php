@@ -1,3 +1,4 @@
+<h2>Ajouter un item</h2>
 <form method="post">
 	<p>
 		<label for="item-name">name: </label>
