@@ -1,18 +1,18 @@
 <?php
 
-define( 'DS', DIRECTORY_SEPARATOR );
-define( 'DIR_BASE', dirname( __DIR__ ).DS );
+require_once dirname( $_SERVER['DOCUMENT_ROOT'].$_SERVER['SCRIPT_NAME'] ).'/config/paths.php';
 
-define( 'DIR_LIB', DIR_BASE.'beer'.DS );
-define( 'DIR_PACKAGES', DIR_BASE.'packages'.DS );
-define( 'DIR_CONFS', DIR_BASE.'confs'.DS );
-define( 'DIR_APP', DIR_BASE.'app'.DS );
+require_once DIR_BEER.DS.'dispatch.php';
 
-define( 'DIR_APP_PACKAGES', DIR_APP.'packages'.DS );
-
-echo DIR_BASE.'<br />';
-echo DIR_LIB.'<br />';
-echo DIR_PACKAGES.'<br />';
-echo DIR_CONFS.'<br />';
-echo DIR_APP.'<br />';
-echo DIR_APP_PACKAGES.'<br />';
+/*
+echo '<hr>';
+echo 'URI_BASE: '.URI_BASE.'<br />';
+echo 'URL_BASE: '.URL_BASE.'<br />';
+echo 'DIR_BASE: '.DIR_BASE.'<br />';
+echo 'DIR_LIB: '.DIR_LIB.'<br />';
+echo 'DIR_PACKAGES: '.DIR_PACKAGES.'<br />';
+echo 'DIR_CONFS: '.DIR_CONFS.'<br />';
+echo 'DIR_APP: '.DIR_APP.'<br />';
+echo 'DIR_APP_PACKAGES: '.DIR_APP_PACKAGES.'<br />';
+echo 'DIR_APP_MODULE: '.DIR_APP_MODULE.'<br />';
+*/
