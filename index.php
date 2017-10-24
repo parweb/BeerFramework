@@ -1,5 +1,6 @@
 <?php
 
+// ok
 function printr ( $array, $exit = false ) {
 	echo '<pre style="text-align: left;">';
 		print_r( $array );
